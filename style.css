@@ -1,0 +1,28 @@
+.header {
+  padding: 10px 16px;
+  background: rgb(155,255,220);
+  background: linear-gradient(90deg, rgba(155,255,220,1) 0%, rgba(139,139,222,1) 59%, rgba(219,50,50,1) 100%);
+  font-size: 50px;
+  font-family: Impact, Charcoal, sans-serif;
+  color: #9900cc;
+}
+
+body {
+  background-image: url("https://d3s4rtoucjtwa6.cloudfront.net/wp-content/uploads/2014/09/25111300/VITALIC-%C2%A9-Fabrizio-De-Patre-1600x1066.jpg");
+  color: white;
+  background-attachment: fixed;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.h4 {
+  text-align: center;
+}
