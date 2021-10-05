@@ -1,5 +1,5 @@
 .header {
-  padding: 10px 16px;
+  padding: 20px 6px;
   background: rgb(155,255,220);
   background: linear-gradient(90deg, rgba(155,255,220,1) 0%, rgba(139,139,222,1) 59%, rgba(219,50,50,1) 100%);
   font-size: 50px;
@@ -8,25 +8,23 @@
 }
 
 body {
-  background-image: url("https://d3s4rtoucjtwa6.cloudfront.net/wp-content/uploads/2014/09/25111300/VITALIC-%C2%A9-Fabrizio-De-Patre-1600x1066.jpg");
+  background-image: url("https://d3s4rtoucjtwa6.cloudfront.net/wp-content/uploads/2018/10/22095654/43782772911_9f8cb2a80f_o-1600x1068.jpg");
   color: rgb(255, 255, 255);
   background-attachment: fixed;
   margin-right: 150px;
   margin-left: 150px;
+  line-height: 180%;
+  font-size:larger;
 }
 
 .sticky {
   position: fixed;
   top: 0;
-  width: 100%
+  width: 80%;
 }
 
 .sticky + .content {
   padding-top: 102px;
-}
-
-h4 {
-  text-align: center;
 }
 
 #menu {

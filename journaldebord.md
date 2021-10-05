@@ -9,7 +9,8 @@
 
 # Corps ( Body )
 
--> Fond de la page : une Photo d'un festival de musique électronique. Une photo uploadée sur un site internet
+-> Fond de la page : une Photo d'un festival de musique électronique. Une photo uploadée sur un site internet (position fixed)
+-> Mise en page simple avec CSS (margins), couleur de la police?
 
 # Entête ( HEADER )
 
@@ -24,6 +25,7 @@ Il faut mettre les tags scripts en bas du fichier
 
 -> Interactif? Fonction js compliquée à reproduire.
 Un simple menu plaqué à gauche.
+-> balise html <menu> + mise en page en css (left + position fixed)
 
 # Bas de page ( FOOTER )
 
