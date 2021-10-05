@@ -9,8 +9,10 @@
 
 body {
   background-image: url("https://d3s4rtoucjtwa6.cloudfront.net/wp-content/uploads/2014/09/25111300/VITALIC-%C2%A9-Fabrizio-De-Patre-1600x1066.jpg");
-  color: white;
+  color: rgb(255, 255, 255);
   background-attachment: fixed;
+  margin-right: 150px;
+  margin-left: 150px;
 }
 
 .sticky {
@@ -23,6 +25,14 @@ body {
   padding-top: 102px;
 }
 
-.h4 {
+h4 {
   text-align: center;
+}
+
+#menu {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
 }
